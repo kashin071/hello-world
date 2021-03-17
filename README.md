@@ -1,3 +1,3 @@
 # hello-world
-My first repositoryП
+My first repository
 Я начал изучать язык программирования Python!
